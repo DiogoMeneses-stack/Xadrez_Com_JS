@@ -32,12 +32,6 @@ Críticas e sugestões são sempre bem-vindas. Se você deseja contribuir para o
 
 ### Badges do Projeto
 
-![GitHub issues](https://img.shields.io/github/issues/user/Xadrez_Com_JS)
-![GitHub forks](https://img.shields.io/github/forks/user/Xadrez_Com_JS)
-![GitHub stars](https://img.shields.io/github/stars/user/Xadrez_Com_JS)
-![GitHub license](https://img.shields.io/github/license/user/Xadrez_Com_JS)
-![GitHub last commit](https://img.shields.io/github/last-commit/user/Xadrez_Com_JS)
-
----
-
-Esperamos que este projeto ajude a comunidade a aprender e evoluir suas habilidades em JavaScript e desenvolvimento web. Participe, contribua e ajude-nos a fazer do Xadrez_Com_JS um projeto cada vez melhor!
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+- ![React](https://img.shields.io/badge/React-17.0.2-blue)
+- ![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green)
