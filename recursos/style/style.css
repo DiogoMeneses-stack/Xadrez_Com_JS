@@ -4,12 +4,18 @@
     box-sizing: border-box;
 }
 
-.cabecalho{    
-    height: 100px;
+.cabecalho{
+    display: flex;
+    justify-content: center;    
+    height: 75px;
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     background-color: #312e2b;
+}
+
+.cabecalho > h1{
+    margin: 10px;
 }
 
 .navegacao {
