@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cabecalho{    
+    height: 100px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #312e2b;
+}
+
+.navegacao {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    background-color: #81b64c;
+}
+
+.tabuleiro{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.tabuleiro > img{
+    width: 500px;
+    height: 500px;
+}
+
+.rodape{
+    background-color: #312e2b;
+    color: aliceblue;
+    text-align: end;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
